@@ -1,2 +1,2 @@
 # Mini-Weka
-Implementar o Mini Weka, contendo meus próprios algoritmos para induzir e empregar os modelos de classificação estudados em aula.
+Implement Mini Weka, containing my own algorithms to induce and employ the classification models studied in class. This project implements some Machine Learning techniques.
